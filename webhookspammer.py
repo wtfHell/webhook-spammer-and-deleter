@@ -2,7 +2,7 @@ from dhooks import Webhook
 import time
 
 wbhk=input("insert ur webhook: ")
-message=input("insera tu mensaje: ")
+message=input("insert ur message: ")
 
 while True:
     time.sleep(0)
