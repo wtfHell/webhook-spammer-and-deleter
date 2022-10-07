@@ -1,7 +1,14 @@
-# webhook-spammer
-# Requirements
-<h2>pip install requests</h2>
-<h2>pip install threadings</h2>
-# Updated
-<h2>added threadings</h2>
-<h2>Next update: Proxy support</h2>
+# Webhook tools
+
+A simple webhook spammer and deleter 
+
+
+## Requirements
+pip install requests ✅\
+pip install threadings✅
+## Updates
+Added threadings 💥
+## Next Updates
+Proxy Support 💡
+## Support
+If you liked the project, leave me a star 🌟
